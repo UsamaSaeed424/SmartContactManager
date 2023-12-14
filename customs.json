@@ -1,0 +1,1 @@
+{"elements":{},"attributes":{"th:classappend":{"context":"div"},"th:text":{"context":"p"},"th:if":{"context":"div"},"th:object":{"context":"form"},"th:unless":{"context":"h3"},"th:action":{"context":"form"},"th:src":{"context":"img"},"th:replace":{"context":"title"},"th:href":{"context":"a"},"th:each":{"context":"div"},"th:value":{"context":"textarea"}}}
